@@ -1,3 +1,2 @@
 # conversao-temperatura
-Iniciativa DevOps - Fabricio Veronez
-Learning about Docker
+Iniciativa DevOps - Fabricio Veronez - Learning about Docker
